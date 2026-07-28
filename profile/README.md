@@ -1,137 +1,180 @@
-<!--
-  COUDE — README institucional
-  Repositório: .github
-  Caminho: profile/README.md
--->
-
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://coude-tecnologia.codebydouglas.chatgpt.site/logo-coude-branco.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://coude-tecnologia.codebydouglas.chatgpt.site/logo-coude-cores.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://coude-tecnologia.codebydouglas.chatgpt.site/logo-coude-branco.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://coude-tecnologia.codebydouglas.chatgpt.site/logo-coude-cores.svg">
   <img
     src="https://coude-tecnologia.codebydouglas.chatgpt.site/logo-coude-cores.svg"
-    alt="COUDE"
-    width="280"
-  />
+    alt="COUDE Tecnologia"
+    width="240"
+  >
 </picture>
 
-<br />
-<br />
-
-<sub><strong>TECNOLOGIA B2B SOB MEDIDA</strong></sub>
+<br>
+<br>
 
 # Complexidade entra. Soluções saem.
 
-**Software, IA, dados e IoT. Uma única direção.**
+### Tecnologia direcionada para desafios reais.
 
-<br />
+Software, inteligência artificial, dados e IoT trabalhando em uma única direção.
 
-<a href="https://coude-tecnologia.codebydouglas.chatgpt.site/#contato">
-  <img
-    alt="Fale com a COUDE"
-    src="https://img.shields.io/badge/FALE_COM_A_COUDE-%E2%86%97-F18738?style=for-the-badge&labelColor=041326"
-  />
-</a>
-<a href="https://coude-tecnologia.codebydouglas.chatgpt.site">
-  <img
-    alt="Conheça a COUDE"
-    src="https://img.shields.io/badge/CONHE%C3%87A_A_COUDE-EXPLORAR-1684DD?style=for-the-badge&labelColor=041326"
-  />
-</a>
+<br>
+
+[![Site](https://img.shields.io/badge/CONHEÇA_A_COUDE-F18738?style=for-the-badge&logoColor=white)](https://coude-tecnologia.codebydouglas.chatgpt.site)
+[![Contato](https://img.shields.io/badge/FALE_COM_A_COUDE-1684DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comercial@coudetech.com)
 
 </div>
 
-<br />
-
-<img
-  src="https://coude-tecnologia.codebydouglas.chatgpt.site/coude-convergence-core.png"
-  alt="Tecnologias convergindo no ecossistema COUDE"
-  width="100%"
-/>
-
-<br />
-
-<div align="center">
-
-<img
-  alt="Software"
-  src="https://img.shields.io/badge/01-SOFTWARE-F18738?style=for-the-badge&labelColor=041326"
-/>
-<img
-  alt="IA e visão computacional"
-  src="https://img.shields.io/badge/02-IA_%26_VIS%C3%83O-1684DD?style=for-the-badge&labelColor=041326"
-/>
-<img
-  alt="Internet das Coisas"
-  src="https://img.shields.io/badge/03-IoT-65B9FB?style=for-the-badge&labelColor=041326"
-/>
-<img
-  alt="Dados"
-  src="https://img.shields.io/badge/04-DADOS-F18738?style=for-the-badge&labelColor=041326"
-/>
-
-</div>
-
-<br />
+---
 
 ## Um sistema. Quatro frentes.
 
-Criamos tecnologia direcionada para desafios reais. Conectamos estratégia, software, inteligência artificial, dados e operação física em soluções que funcionam como um único sistema.
+Não começamos pela ferramenta. Começamos entendendo o contexto, a operação e o desafio que precisa ser resolvido.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 — Software</h3>
-      <p>
-        Produtos digitais desenvolvidos sob medida para simplificar fluxos,
-        integrar operações e transformar processos reais.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 — IA & Visão</h3>
-      <p>
-        Modelos que enxergam, detectam e apoiam decisões, conectando
-        inteligência artificial ao contexto da operação.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 — IoT</h3>
-      <p>
-        Sensores, câmeras e dispositivos conectados para acompanhar e
-        transformar a operação física em tempo real.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 — Dados</h3>
-      <p>
-        Sinais dispersos transformados em informação clara, indicadores
-        relevantes e melhores decisões.
-      </p>
-    </td>
-  </tr>
-</table>
+A partir disso, conectamos diferentes áreas da tecnologia para construir soluções sob medida, preparadas para operar no mundo real e evoluir junto com cada negócio.
 
-<br />
+<br>
+
+### `01` Software
+
+Produtos digitais desenvolvidos para fluxos reais.
+
+Criamos sistemas, plataformas e aplicações sob medida, combinando arquitetura sólida, interfaces intuitivas e integrações que simplificam operações complexas.
+
+- Sistemas web e aplicações
+- Plataformas corporativas
+- Automação de processos
+- Integração entre sistemas
+- Arquiteturas escaláveis
+
+<br>
+
+### `02` IA & Visão
+
+Modelos que enxergam, detectam e decidem.
+
+Aplicamos inteligência artificial e visão computacional para transformar imagens, eventos e informações em decisões mais rápidas, precisas e automatizadas.
+
+- Visão computacional
+- Detecção e classificação
+- Modelos inteligentes
+- Análise automatizada
+- Apoio à tomada de decisão
+
+<br>
+
+### `03` IoT
+
+Operação física conectada em tempo real.
+
+Conectamos sensores, câmeras, equipamentos e sistemas para criar operações monitoradas, integradas e capazes de reagir aos acontecimentos do ambiente.
+
+- Sensores e dispositivos conectados
+- Monitoramento em tempo real
+- Telemetria
+- Automação de operações
+- Integração entre o físico e o digital
+
+<br>
+
+### `04` Dados
+
+Informação organizada para decisões melhores.
+
+Unificamos dados dispersos e os transformamos em indicadores, visualizações e produtos capazes de revelar o que está acontecendo na operação.
+
+- Engenharia e integração de dados
+- Dashboards operacionais
+- Indicadores estratégicos
+- Pipelines de dados
+- Inteligência de negócio
+
+---
 
 ## Do problema ao resultado.
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>01 — Observar</strong>
-      <br /><br />
-      Entender o que realmente importa na operação e identificar o desafio certo.
-    </td>
-    <td width="25%" valign="top">
-      <strong>02 — Projetar</strong>
-      <br /><br />
-      Transformar o entendimento em uma solução sob medida para
+Nosso processo combina investigação, estratégia, engenharia e evolução contínua.
+
+| Etapa | Direção |
+|:---:|---|
+| **01 — Observar** | Entender o que realmente importa na operação para identificar o problema certo e construir uma solução que gere resultado. |
+| **02 — Projetar** | Criar uma arquitetura sob medida, alinhada aos objetivos, processos e necessidades reais da empresa. |
+| **03 — Construir** | Desenvolver uma solução tecnológica sofisticada, confiável e preparada para que a equipe possa focar no que realmente importa. |
+| **04 — Evoluir** | Medir resultados, aprender com a operação e aprimorar continuamente o sistema para acompanhar a evolução do negócio. |
+
+---
+
+## Pensamos no sistema inteiro.
+
+### Contexto antes da ferramenta
+
+Tecnologia só gera valor quando resolve um problema real. Por isso, cada projeto começa com entendimento, análise e direção.
+
+### Digital encontra o físico
+
+Software, inteligência artificial, dados, sensores e equipamentos podem fazer parte de um mesmo ecossistema conectado.
+
+### Pronto para evoluir
+
+Construímos soluções com bases sólidas, capazes de acompanhar novas necessidades, integrações e oportunidades.
+
+---
+
+## Nossa direção tecnológica
+
+<div align="center">
+
+![Software](https://img.shields.io/badge/SOFTWARE-041326?style=for-the-badge)
+![Inteligência Artificial](https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-F18738?style=for-the-badge)
+![Visão Computacional](https://img.shields.io/badge/VISÃO_COMPUTACIONAL-1684DD?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-65B9FB?style=for-the-badge)
+![Dados](https://img.shields.io/badge/DADOS-041326?style=for-the-badge)
+
+</div>
+
+<br>
+
+<div align="center">
+
+**DESAFIO**
+
+↓
+
+**CONTEXTO**
+
+↓
+
+**ARQUITETURA**
+
+↓
+
+**TECNOLOGIA**
+
+↓
+
+**RESULTADO**
+
+</div>
+
+---
+
+<div align="center">
+
+## Seu desafio. Uma direção.
+
+Vamos encontrar o ponto de convergência entre tecnologia, operação e resultado.
+
+<br>
+
+[![Fale com a COUDE](https://img.shields.io/badge/FALE_COM_A_COUDE-F18738?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:comercial@coudetech.com)
+
+<br>
+
+[Site](https://coude-tecnologia.codebydouglas.chatgpt.site) · [Contato](mailto:comercial@coudetech.com)
+
+<br>
+
+<sub>COUDE — Tecnologia direcionada para desafios reais.</sub>
+
+</div>
